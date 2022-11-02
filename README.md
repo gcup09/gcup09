@@ -5,7 +5,7 @@
 -    and i'm eager to contribute to others!
 
 - 💞️ I’m looking to collaborate on automation projects (possibly developed in Python), I'm also interested in projects
--    aimed to improve quality of life.
+     aimed to improve quality of life.
 
 - 📫 How to reach me: Email ==> gcup09@proton.me
 
